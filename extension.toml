@@ -1,0 +1,11 @@
+id = "cucumber-gherkin"
+name = "Cucumber Gherkin"
+version = "0.1.0"
+schema_version = 1
+authors = ["FenrirTheGray <49723866+FenrirTheGray@users.noreply.github.com>"]
+description = "Gherkin syntax highlighting, outline and doc string injections"
+repository = "https://github.com/FenrirTheGray/cucumber-gherkin"
+
+[grammars.gherkin]
+repository = "https://github.com/binhtran432k/tree-sitter-gherkin"
+rev = "1a709aebeecbe81bd70dfd6ea784894844be1511"
