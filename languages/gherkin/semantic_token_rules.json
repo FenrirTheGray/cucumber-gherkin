@@ -1,0 +1,12 @@
+[
+  {
+    "token_type": "parameter",
+    "style": ["variable.parameter", "variable.special", "variable"]
+  },
+  { "token_type": "keyword" },
+  { "token_type": "string" },
+  { "token_type": "type" },
+  { "token_type": "variable" },
+  { "token_type": "property" },
+  { "token_type": "comment" }
+]
